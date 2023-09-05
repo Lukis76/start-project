@@ -7,6 +7,8 @@ import { choicesQuickStart } from "./lib/choices-quick-start.js";
 import { FrameworkType, PackageManagerType } from "./types/type.js";
 import { choicesManager } from "./lib/choices-manager.js";
 
+// new line test release
+
 class QuickStart {
 	frameworkSelect: FrameworkType;
 	packageManagerSelect: PackageManagerType;
